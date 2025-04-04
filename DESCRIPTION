@@ -2,10 +2,9 @@ Package: change.vibe
 Title: Change Your Vibe
 Version: 0.0.0.9000
 Authors@R: 
-    person("Annmarie", "Thomson", role = c("aut", "cre"))
+    person("Annmarie", "Thomson", , "jane@example.com", role = c("aut", "cre"))
 Description: Change the vibe of your string.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
